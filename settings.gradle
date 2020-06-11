@@ -1,0 +1,2 @@
+rootProject.name='AKU Engineering College'
+include ':app'
